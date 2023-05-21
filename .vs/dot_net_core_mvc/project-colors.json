@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c91db3d7-5d0f-49eb-9c2b-4514d5d3fb87": {
+      "ProjectGuid": "c91db3d7-5d0f-49eb-9c2b-4514d5d3fb87",
+      "DisplayName": "dot_net_core_mvc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
